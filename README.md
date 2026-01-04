@@ -16,8 +16,10 @@ What this repository is NOT:
 
 What this repository FOCUSES on:
 - Small Language Models (SLMs): High-performance models with low parameter counts. It may still be hard for individuals to even pretrain and finetune a SLM. However it become possible to test some ideas on SLM while it maybe too expensive to do it on LLM. 
+  - SLM-based RAG
 - Compression: Model compression/quantification, long context compression etc.
 - Parameter-Efficient Fine-Tuning (PEFT): Research into updating models without training all parameters. 
 - Mechanistic Interpretability: The "neuroscience"/"Physics" of LLM.
   - Representation Engineering: Understanding and manipulating model internals without retraining.
 - Prompt Engineering & Research: Maximizing model output through advanced prompting techniques.
+
