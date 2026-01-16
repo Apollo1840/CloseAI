@@ -1,7 +1,10 @@
 # SimPO
 https://arxiv.org/pdf/2405.14734
 
-一种替代RLHF的方法，其中不使用RL，也不训练Reward Model。据说有完整好复现的代码。
+【这项工作家用PC无法复现，但是包含很多小模型，所以推荐：https://github.com/princeton-nlp/SimPO
+】
+
+一种替代RLHF的方法，其中不使用RL，也不训练Reward Model。
 
 ## RLHF 传统方法
 - a Reward Model(RM) is trained 
